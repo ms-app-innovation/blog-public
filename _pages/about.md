@@ -33,7 +33,6 @@ She is an Application Innovation Cloud Solution Architect based in Melbourne. He
 Suhas thinks we may already be living in the Matrix! While he has not taken the red pill yet, he defintiely believes that digital transformation is to make the machines work for us by writing programs to automate everything - from Infrastructure and Apps to governance, security, compliance, etc. He has been with Microsoft since 2010 in various roles focussing on programming large-scale distrubuted systems. In his current role has been helping the large FSI customers in Australia in their digital transformation journeys. Tweet him <a href="https://twitter.com/compose/tweet?text=@suhasaraos" target="_blank">@suhasaraos</a>.
 </p>
  
-\
 **Stuart Eggerton**
 
 **Peter Hancock**
@@ -50,7 +49,7 @@ Suhas thinks we may already be living in the Matrix! While he has not taken the 
 
 **Richard Smith**
 
-**Arian Nevjestic** \
+**Arian Nevjestic** 
 ![](https://avatars.githubusercontent.com/u/9455286?s=400&u=7c26d007415a805d8e2e50d26abdae03f9fa3c77&v=4)
 
  Arian is a Cloud Solution Architect with Microsoft (Perth - Western Australia) focusing on Application Innovation on Azure. With a background across large-scale distributed cloud architectures, software development and infrastructure deployment & maintenance, he is a firm believer in strong automation and DevOps. Outside of work he is a father and a husband with a serious addiction for all things audio.
