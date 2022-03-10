@@ -24,8 +24,16 @@ She is an Application Innovation Cloud Solution Architect based in Melbourne. He
 
 **Paul Kelso**
 
-**Suhas Rao**
+**Suhas Rao** 
 
+ <img src="https://pbs.twimg.com/profile_images/1498628393239461891/pSu60uZL_400x400.jpg" height="auto" width="125" style="border-radius:50%" align="left">
+
+<p>
+
+Suhas thinks we may already be living in the Matrix! While he has not taken the red pill yet, he defintiely believes that digital transformation is to make the machines work for us by writing programs to automate everything - from Infrastructure and Apps to governance, security, compliance, etc. He has been with Microsoft since 2010 in various roles focussing on programming large-scale distrubuted systems. In his current role has been helping the large FSI customers in Australia in their digital transformation journeys. Tweet him <a href="https://twitter.com/compose/tweet?text=@suhasaraos" target="_blank">@suhasaraos</a>.
+</p>
+ 
+\
 **Stuart Eggerton**
 
 **Peter Hancock**
